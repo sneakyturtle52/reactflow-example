@@ -1,11 +1,27 @@
-![readme-header](https://user-images.githubusercontent.com/3797215/156259138-fb9f59f8-52f2-474a-b78c-6570867e4ead.svg#gh-light-mode-only)
+# React Flow Example App - Next.js
 
-# React Flow Example Apps
+This app was bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app)
 
-This repo contains starting points / references for projects that use [React Flow](https://reactflow.dev).
+## Installation
 
-- [Create React App Example](/reactflow-create-react-app)
-- [Next.js Example](/reactflow-nextjs)
-- [Remix Example](/reactflow-remix)
+```sh
+npm install
+```
 
-Please refer to the [React Flow Docs](https://reactflow.dev/docs) for more information about how to use React Flow.
+### Start Dev Server
+
+```sh
+npm run dev
+```
+
+Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### Build
+
+```sh
+npm run build
+```
+
+## Next.js Docs
+
+Please refer to the [Next.js docs](https://nextjs.org/docs) for more information.
